@@ -68,6 +68,7 @@ Once the mutation tests are completed, navigate to the generated reports:
 
 ## Test Results
 Below is a screenshot of the mutation testing results (replace this section with your actual results screenshot or text report).
+![image](https://github.com/user-attachments/assets/257f2019-b0a2-4bf4-b90e-af46f2d1e321)
 
 ---
 
@@ -78,7 +79,7 @@ Below is a screenshot of the mutation testing results (replace this section with
 - **Integration Testing**
 ### Kuldip Bhatale (MT2023087)
 - **Unit Testing**
--  **Integration Testing**:
+-  **Integration Testing**
 ---
 
 ## Conclusion
